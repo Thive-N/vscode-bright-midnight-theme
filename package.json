@@ -1,0 +1,21 @@
+{
+  "name": "bright-midnight",
+  "displayName": "bright-midnight",
+  "description": "a colourful contrasting theme for visual studio code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.63.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bright-Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Bright-Midnight-color-theme.json"
+      }
+    ]
+  }
+}
