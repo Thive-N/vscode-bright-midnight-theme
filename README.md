@@ -21,7 +21,8 @@ there are a few more colors but they are all based around these ones
 
 # Installation
 
-move `themes/Bright-Midnight-color-theme.json` into `~/.vscode/extensions`
+`cd ~/.vscode/extensions/`
+`git clone Thive-N/vscode-bright-midnight-theme`
 
 # TODO
 
